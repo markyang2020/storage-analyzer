@@ -2,8 +2,6 @@
 
 macOS / Windows read-only storage analyzer skill. It scans disk usage, asks an agent to classify cleanup candidates, and renders an interactive HTML report with a three-tier cleanup plan.
 
-This repository is an extracted copy of `storage-analyzer` from [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills/tree/main/storage-analyzer). The original project is licensed under MIT; the license is preserved in [LICENSE](./LICENSE).
-
 ## What It Does
 
 - Scans common disk hot spots with read-only operations.
